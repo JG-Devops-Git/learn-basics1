@@ -1,2 +1,3 @@
 Test File 
 Git is testing here
+Git merge is test here
